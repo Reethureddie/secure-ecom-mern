@@ -56,8 +56,8 @@ mern-ecommerce-master_2/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/Reethureddie/Secure-E-com.git
-cd Secure-E-com/mern-ecommerce-master_2
+git clone https://github.com/Reethureddie/Secure-ecom-mern.git
+cd Secure-ecom-mern/mern-ecommerce-master_2
 ```
 
 ### 2. Backend setup
